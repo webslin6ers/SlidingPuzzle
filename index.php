@@ -2,11 +2,11 @@
 <html lang="en">
 <head>
     <title>Sliding Puzzle</title>
-    <link rel="stylesheet" type="text/css" href="http://www.w3schools.com/lib/w3.css" />
+    <link rel="stylesheet" type="text/css" href="https://www.w3schools.com/lib/w3.css" />
     <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
     <link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" type="text/css" href="main.css" />
-	<script src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-2.2.3.min.js"></script>
+	<script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-2.2.3.min.js"></script>
 	<meta charset="utf-8" />
 </head>
 
