@@ -20,12 +20,12 @@
             <span id="headerEmail" style="font-size: 20px; color: #ffffff">
 			<?php
 				session_start();
-				if (empty($_SESSION)) {
-					echo "Login";
-				}
-				else {
+				//if (empty($_SESSION)) {
+					//echo "Login";
+				//}
+				//else {
 					echo $_SESSION['email'] . " <span style='font-size: 13px'>&#9660;</span>";
-				}
+				//}
 			?>
 			</span>
 
