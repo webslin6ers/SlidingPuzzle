@@ -14,6 +14,7 @@
 		$userEmail = testInput($_POST["email"]);
 		$userPassword = sha1($_POST["password"]);
 
+		//Login server will need to change
 		$serverName = "ap-cdbr-azure-southeast-b.cloudapp.net";
 		$databaseName = "Default Database";
 		$userName = "b7c4a56e485de0";
