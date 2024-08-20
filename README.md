@@ -1,6 +1,6 @@
 # SlidingPuzzle
 
-http://slidingpuzzle.azurewebsites.net/
+https://webslingers.com.au
 
 A simple web-based game hosted on Microsoft Azure where the user should slide the numbered piece to the empty one using:
 1. Keyboard (arrow) to sort the number.
